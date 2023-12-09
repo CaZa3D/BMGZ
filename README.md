@@ -9,7 +9,8 @@ Geared Z for Pandora's Box using BMG kits, compatible with stock skirts and corn
 Not yet tested.
 
 ## Options
-There are options for using the MR58 bearings that come in the BMG kits, or F695 2RS bearings. Nema 17 is supported for both versions. Nema 14 is supported for MR58 bearings only.
+There are options for using the MR58 bearings that come in the BMG kits, or F695 2RS bearings. 
+Nema 17 is supported for both versions. Nema 14 is supported for MR58 bearings only.
 
 
 ## Bill of Materials 
