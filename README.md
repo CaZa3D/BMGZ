@@ -6,7 +6,8 @@ We have G2Z at home!
 
 Drop-in geared Z for Pandora's Box using BMG kits, compatible with stock skirts and corners.
 
-Not yet tested.
+Not yet tested. BitwiseOperator has assembled one.
+![](/Images/BMGZ_BitwiseOperator.png)
 
 ## Options
 There are options for using the MR58 bearings that come in the BMG kits, or F695 2RS bearings. 
