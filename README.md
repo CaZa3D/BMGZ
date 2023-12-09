@@ -1,4 +1,5 @@
 # BMG Z for Pandora's Box
+![](/Images/PandoraBMGZ_005)
 ![image](https://media.discordapp.net/attachments/1101942488928878703/1182526465145839656/image.png?ex=65850497&is=65728f97&hm=43156e39d17ac4247ce4843ac9aa17f397788b2855a54dd0e7be99f263672f23&=&format=webp&quality=lossless&width=777&height=662)
 ###### Image Courtesey of BitwiseOperator
 
