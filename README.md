@@ -4,7 +4,7 @@
 ## Description
 We have G2Z at home!
 
-Geared Z for Pandora's Box using BMG kits, compatible with stock skirts and corners.
+Drop-in geared Z for Pandora's Box using BMG kits, compatible with stock skirts and corners.
 
 Not yet tested.
 
