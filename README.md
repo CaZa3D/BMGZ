@@ -21,7 +21,7 @@ Some amount of M3 bolts
 3 Nema 17/Nema 14
 
 ## Acknowledgement
-Thanks to BitwiseOperator for early feedback, test printing, and the picture.
-Thanks to Masturmynd for creating Pandora's box and showing pics of his early BMGZ cad.
-Thanks to Mitsubishi for his "***totally genius groundbreaking idea*** of putting the bearing in between the pulley and skirt"
+-Thanks to BitwiseOperator for early feedback, test printing, and the picture.
+-Thanks to Masturmynd for creating Pandora's box and showing pics of his early BMGZ cad.
+-Thanks to Mitsubishi for his "***totally genius groundbreaking idea*** of putting the bearing in between the pulley and skirt"
 
